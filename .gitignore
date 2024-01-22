@@ -1,6 +1,5 @@
-# игрорировать файлы, находящиеся в подкаталоге tmp
 tmp/
-# игнорировать файлы, заканчивающиеся суффиксами _old, _backup
-_old, _backup
-# игнорировать файлы Thumbs.db и .DS_Store
-Thumbs.db, .DS_Store
+Thumbs.db
+*.DS_Store
+*_old
+*_backup
